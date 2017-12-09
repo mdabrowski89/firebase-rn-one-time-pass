@@ -1,0 +1,12 @@
+# Android/IntelliJ
+#
+build/
+.idea
+.tmp
+
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+
